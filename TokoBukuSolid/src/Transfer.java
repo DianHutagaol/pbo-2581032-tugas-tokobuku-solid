@@ -4,6 +4,6 @@ public class Transfer implements MetodeBayar {
 
     @Override
     public int totalBayar(int totalBelanja) {
-        return totalBelanja + 2.500;
+        return totalBelanja + 2500;
     }
 }
